@@ -1,5 +1,4 @@
 /******************************************************************************
- * 
  * If start number of stone is not a multiple of 4, I can always remove the
  * exact number of stones and make the resulting number of stones to be a 
  * multiple of 4.
