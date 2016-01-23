@@ -1,5 +1,6 @@
 package com.gokeii.algorithms.easy.nimGame;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 public class NimGameTest {
@@ -7,14 +8,14 @@ public class NimGameTest {
 	@Test
 	public void test() {
 		NimGame solution = new NimGame();
-		assert solution.canWinNim(1);
-		assert solution.canWinNim(2);
-		assert solution.canWinNim(3);
-		assert !solution.canWinNim(4);
-		assert solution.canWinNim(5);
-		assert solution.canWinNim(6);
-		assert solution.canWinNim(7);
-		assert !solution.canWinNim(8);
+		Assert.assertEquals(true, solution.canWinNim(1));
+		Assert.assertEquals(true, solution.canWinNim(2));
+		Assert.assertEquals(true, solution.canWinNim(3));
+		Assert.assertEquals(false, solution.canWinNim(4));
+		Assert.assertEquals(true, solution.canWinNim(5));
+		Assert.assertEquals(true, solution.canWinNim(6));
+		Assert.assertEquals(true, solution.canWinNim(7));
+		Assert.assertEquals(false, solution.canWinNim(8));
 	}
 
 }

@@ -1,5 +1,7 @@
 package com.gokeii.algorithms.easy.addDigits;
 
+import org.junit.Assert;
+
 import org.junit.Test;
 
 public class AddDigitsTest {
@@ -7,11 +9,13 @@ public class AddDigitsTest {
 	@Test
 	public void test() {
 		AddDigits solution = new AddDigits();
-		assert solution.addDigits(10) == 1;
-		assert solution.addDigits(11) == 2;
-		assert solution.addDigits(12) == 3;
-		assert solution.addDigits(38) == 2;
-		assert solution.addDigits(148) == 4;
+		Assert.assertEquals(9, solution.addDigits(9));
+		Assert.assertEquals(1, solution.addDigits(10));
+		Assert.assertEquals(2, solution.addDigits(11));
+		Assert.assertEquals(3, solution.addDigits(12));
+		Assert.assertEquals(4, solution.addDigits(13));
+		Assert.assertEquals(2, solution.addDigits(38));
+		Assert.assertEquals(4, solution.addDigits(148));
 	}
 
 }
