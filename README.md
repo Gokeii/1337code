@@ -7,6 +7,7 @@ Here be dragons.
 
 | #   | Title                            | Difficulty | Solution    |
 |:--- |:-------------------------------- |:---------- |:----------- |
+| 100 | [Same Tree][]                    | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][] | Easy       | [Link][104] |
 | 226 | [Invert Binary Tree][]           | Easy       | [Link][226] |
 | 237 | [Delete Node in a Linked List][] | Easy       | [Link][237] |
@@ -22,7 +23,9 @@ Here be dragons.
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
+[Same Tree]: https://leetcode.com/problems/same-tree/
 
+[100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [226]: ./src/com/gokeii/algorithms/easy/invertBinaryTree/InvertBinaryTree.java
 [237]: ./src/com/gokeii/algorithms/easy/deleteNodeInALinkedList/DeleteNodeInALinkedList.java
