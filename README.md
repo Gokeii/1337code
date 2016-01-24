@@ -11,6 +11,7 @@ Here be dragons.
 | 104 | [Maximum Depth of Binary Tree][] | Easy       | [Link][104] |
 | 226 | [Invert Binary Tree][]           | Easy       | [Link][226] |
 | 237 | [Delete Node in a Linked List][] | Easy       | [Link][237] |
+| 242 | [Valid Anagram][] &hearts;       | Easy       | [Link][242] |
 | 258 | [Add Digits][]                   | Easy       | [Link][258] |
 | 283 | [Move Zeroes][] &hearts;         | Easy       | [Link][283] |
 | 292 | [Nim Game][]                     | Easy       | [Link][292] |
@@ -24,11 +25,13 @@ Here be dragons.
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Same Tree]: https://leetcode.com/problems/same-tree/
+[Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [226]: ./src/com/gokeii/algorithms/easy/invertBinaryTree/InvertBinaryTree.java
 [237]: ./src/com/gokeii/algorithms/easy/deleteNodeInALinkedList/DeleteNodeInALinkedList.java
+[242]: ./src/com/gokeii/algorithms/easy/validAnagram/ValidAnagram.java
 [258]: ./src/com/gokeii/algorithms/easy/addDigits/AddDigits.java
 [283]: ./src/com/gokeii/algorithms/easy/moveZeroes/MoveZeroes.java
 [292]: ./src/com/gokeii/algorithms/easy/nimGame/NimGame.java
