@@ -18,7 +18,7 @@ public class ContainsDuplicate {
         return false;
     }
 
-    private void quickSort1(int l, int r, int[] nums) {
+    public void quickSort1(int l, int r, int[] nums) {
         if (l >= r) return;
 
         System.out.println(l + " " + r);
@@ -37,7 +37,7 @@ public class ContainsDuplicate {
         quickSort1(i + 1, r, nums);
     }
     
-    private void quickSort2(int l, int r, int[] nums) {
+    public void quickSort2(int l, int r, int[] nums) {
         if (l >= r) return;
 
         int i = l, j = r;
