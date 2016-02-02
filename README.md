@@ -41,8 +41,8 @@ Here be dragons.
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 
-[1]: ./src/com/gokeii/algorithms/easy/twoSum/TwoSum.java
-[2]: ./src/com/gokeii/algorithms/easy/addTwoNumbers/AddTwoNumbers.java
+[1]: ./src/com/gokeii/algorithms/medium/twoSum/TwoSum.java
+[2]: ./src/com/gokeii/algorithms/medium/addTwoNumbers/AddTwoNumbers.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
