@@ -7,7 +7,8 @@ Here be dragons.
 
 | #   | Title                                              | Difficulty | Solution    |
 |:--- |:-------------------------------------------------- |:---------- |:----------- |
-| 1   | [Two Sum][]                                        | Easy       | [Link][1]   |
+| 1   | [Two Sum][]                                        | Medium     | [Link][1]   |
+| 2   | [Add Two Numbers][]                                | Medium     | [Link][2]   |
 | 100 | [Same Tree][]                                      | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                   | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                       | Easy       | [Link][168] |
@@ -25,6 +26,7 @@ Here be dragons.
 (&hearts;: Efficiency of algorithm may be improved.)
 
 [Add Digits]: https://leetcode.com/problems/add-digits/
+[Add Two Numbers]: https://leetcode.com/problems/add-two-numbers/
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 [Delete Node in a Linked List]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
@@ -40,6 +42,7 @@ Here be dragons.
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 
 [1]: ./src/com/gokeii/algorithms/easy/twoSum/TwoSum.java
+[2]: ./src/com/gokeii/algorithms/easy/addTwoNumbers/AddTwoNumbers.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
