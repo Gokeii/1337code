@@ -7,6 +7,7 @@ Here be dragons.
 
 | #   | Title                                              | Difficulty | Solution    |
 |:--- |:-------------------------------------------------- |:---------- |:----------- |
+| 1   | [Two Sum][]                                        | Easy       | [Link][1]   |
 | 100 | [Same Tree][]                                      | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                   | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                       | Easy       | [Link][168] |
@@ -35,8 +36,10 @@ Here be dragons.
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Same Tree]: https://leetcode.com/problems/same-tree/
+[Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 
+[1]: ./src/com/gokeii/algorithms/easy/twoSum/TwoSum.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
