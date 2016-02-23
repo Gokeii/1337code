@@ -9,6 +9,7 @@ Here be dragons.
 |:--- |:-------------------------------------------------- |:---------- |:----------- |
 | 1   | [Two Sum][]                                        | Medium     | [Link][1]   |
 | 2   | [Add Two Numbers][]                                | Medium     | [Link][2]   |
+| 3   | [Longest Substring Without Repeating Characters][] | Medium     | [Link][3]   |
 | 100 | [Same Tree][]                                      | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                   | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                       | Easy       | [Link][168] |
@@ -32,6 +33,7 @@ Here be dragons.
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
 [Excel Sheet Column Title]: https://leetcode.com/problems/excel-sheet-column-title/
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [Majority Element]: https://leetcode.com/problems/majority-element/
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
@@ -43,6 +45,7 @@ Here be dragons.
 
 [1]: ./src/com/gokeii/algorithms/medium/twoSum/TwoSum.java
 [2]: ./src/com/gokeii/algorithms/medium/addTwoNumbers/AddTwoNumbers.java
+[3]: ./src/com/gokeii/algorithms/medium/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
