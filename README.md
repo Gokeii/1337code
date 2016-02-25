@@ -5,24 +5,25 @@ Here be dragons.
 
 ### Algorithms
 
-| #   | Title                                              | Difficulty | Solution    |
-|:--- |:-------------------------------------------------- |:---------- |:----------- |
-| 1   | [Two Sum][]                                        | Medium     | [Link][1]   |
-| 2   | [Add Two Numbers][]                                | Medium     | [Link][2]   |
-| 3   | [Longest Substring Without Repeating Characters][] | Medium     | [Link][3]   |
-| 100 | [Same Tree][]                                      | Easy       | [Link][100] |
-| 104 | [Maximum Depth of Binary Tree][]                   | Easy       | [Link][104] |
-| 168 | [Excel Sheet Column Title][]                       | Easy       | [Link][168] |
-| 169 | [Majority Element][] &hearts;                      | Easy       | [Link][169] |
-| 171 | [Excel Sheet Column Number][]                      | Easy       | [Link][171] |
-| 217 | [Contains Duplicate][]                             | Easy       | [Link][217] |
-| 226 | [Invert Binary Tree][]                             | Easy       | [Link][226] |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree][] | Easy       | [Link][235] |
-| 237 | [Delete Node in a Linked List][]                   | Easy       | [Link][237] |
-| 242 | [Valid Anagram][] &hearts;                         | Easy       | [Link][242] |
-| 258 | [Add Digits][]                                     | Easy       | [Link][258] |
-| 283 | [Move Zeroes][] &hearts;                           | Easy       | [Link][283] |
-| 292 | [Nim Game][]                                       | Easy       | [Link][292] |
+| #   | Title                                                       | Difficulty | Solution    |
+|:--- |:----------------------------------------------------------- |:---------- |:----------- |
+| 1   | [Two Sum][]                                                 | Medium     | [Link][1]   |
+| 2   | [Add Two Numbers][]                                         | Medium     | [Link][2]   |
+| 3   | [Longest Substring Without Repeating Characters][] &hearts; | Medium     | [Link][3]   |
+| 5   | [Longest Palindromic Substring][] &hearts;                  | Medium     | [Link][5]   |
+| 100 | [Same Tree][]                                               | Easy       | [Link][100] |
+| 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
+| 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
+| 169 | [Majority Element][] &hearts;                               | Easy       | [Link][169] |
+| 171 | [Excel Sheet Column Number][]                               | Easy       | [Link][171] |
+| 217 | [Contains Duplicate][]                                      | Easy       | [Link][217] |
+| 226 | [Invert Binary Tree][]                                      | Easy       | [Link][226] |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree][]          | Easy       | [Link][235] |
+| 237 | [Delete Node in a Linked List][]                            | Easy       | [Link][237] |
+| 242 | [Valid Anagram][] &hearts;                                  | Easy       | [Link][242] |
+| 258 | [Add Digits][]                                              | Easy       | [Link][258] |
+| 283 | [Move Zeroes][] &hearts;                                    | Easy       | [Link][283] |
+| 292 | [Nim Game][]                                                | Easy       | [Link][292] |
 
 (&hearts;: Efficiency of algorithm may be improved.)
 
@@ -33,6 +34,7 @@ Here be dragons.
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
 [Excel Sheet Column Title]: https://leetcode.com/problems/excel-sheet-column-title/
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
+[Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [Majority Element]: https://leetcode.com/problems/majority-element/
@@ -46,6 +48,7 @@ Here be dragons.
 [1]: ./src/com/gokeii/algorithms/medium/twoSum/TwoSum.java
 [2]: ./src/com/gokeii/algorithms/medium/addTwoNumbers/AddTwoNumbers.java
 [3]: ./src/com/gokeii/algorithms/medium/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java
+[5]: ./src/com/gokeii/algorithms/medium/longestPalindromicSubstring/LongestPalindromicSubstring.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
