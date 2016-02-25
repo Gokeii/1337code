@@ -11,6 +11,7 @@ Here be dragons.
 | 2   | [Add Two Numbers][]                                         | Medium     | [Link][2]   |
 | 3   | [Longest Substring Without Repeating Characters][] &hearts; | Medium     | [Link][3]   |
 | 5   | [Longest Palindromic Substring][] &hearts;                  | Medium     | [Link][5]   |
+| 6   | [ZigZag Conversion][]                                       | Medium     | [Link][6]   |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -44,11 +45,13 @@ Here be dragons.
 [Same Tree]: https://leetcode.com/problems/same-tree/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+[ZigZag Conversion]: https://leetcode.com/problems/zigzag-conversion/
 
 [1]: ./src/com/gokeii/algorithms/medium/twoSum/TwoSum.java
 [2]: ./src/com/gokeii/algorithms/medium/addTwoNumbers/AddTwoNumbers.java
 [3]: ./src/com/gokeii/algorithms/medium/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java
 [5]: ./src/com/gokeii/algorithms/medium/longestPalindromicSubstring/LongestPalindromicSubstring.java
+[6]: ./src/com/gokeii/algorithms/medium/zigZagConversion/ZigZagConversion.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
