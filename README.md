@@ -13,6 +13,7 @@ Here be dragons.
 | 5   | [Longest Palindromic Substring][] &hearts;                  | Medium     | [Link][5]   |
 | 6   | [ZigZag Conversion][]                                       | Easy       | [Link][6]   |
 | 7   | [Reverse Integer][]                                         | Easy       | [Link][7]   |
+| 8   | [String to Integer (atoi)][]                                | Easy       | [Link][8]   |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -45,6 +46,7 @@ Here be dragons.
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
 [Same Tree]: https://leetcode.com/problems/same-tree/
+[String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 [ZigZag Conversion]: https://leetcode.com/problems/zigzag-conversion/
@@ -55,6 +57,7 @@ Here be dragons.
 [5]: ./src/com/gokeii/algorithms/medium/longestPalindromicSubstring/LongestPalindromicSubstring.java
 [6]: ./src/com/gokeii/algorithms/easy/zigZagConversion/ZigZagConversion.java
 [7]: ./src/com/gokeii/algorithms/easy/reverseInteger/ReverseInteger.java
+[8]: ./src/com/gokeii/algorithms/easy/stringToInteger/StringToInteger.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
