@@ -28,6 +28,7 @@ Here be dragons.
 | 258 | [Add Digits][]                                              | Easy       | [Link][258] |
 | 283 | [Move Zeroes][] &hearts;                                    | Easy       | [Link][283] |
 | 292 | [Nim Game][]                                                | Easy       | [Link][292] |
+| 300 | [Longest Increasing Subsequence][]                          | Medium     | [Link][300] |
 
 (&hearts;: Efficiency of algorithm may be improved.)
 
@@ -38,6 +39,7 @@ Here be dragons.
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
 [Excel Sheet Column Title]: https://leetcode.com/problems/excel-sheet-column-title/
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
+[Longest Increasing Subsequence]: https://leetcode.com/problems/longest-increasing-subsequence/
 [Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
@@ -74,3 +76,4 @@ Here be dragons.
 [258]: ./src/com/gokeii/algorithms/easy/addDigits/AddDigits.java
 [283]: ./src/com/gokeii/algorithms/easy/moveZeroes/MoveZeroes.java
 [292]: ./src/com/gokeii/algorithms/easy/nimGame/NimGame.java
+[300]: ./src/com/gokeii/algorithms/medium/longestIncreasingSubsequence/LongestIncreasingSubsequence.java
