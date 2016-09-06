@@ -17,6 +17,7 @@ Here be dragons.
 | 9   | [Palindrome Number][]                                       | Easy       | [Link][9]   |
 | 12  | [Integer to Roman][]                                        | Medium     | [Link][12]  |
 | 13  | [Roman to Integer][]                                        | Easy       | [Link][13]  |
+| 14  | [Longest Common Prefix][]                                   | Easy       | [Link][14]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -42,6 +43,7 @@ Here be dragons.
 [Excel Sheet Column Title]: https://leetcode.com/problems/excel-sheet-column-title/
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
 [Integer to Roman]: https://leetcode.com/problems/integer-to-roman/
+[Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
 [Longest Increasing Subsequence]: https://leetcode.com/problems/longest-increasing-subsequence/
 [Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -69,6 +71,7 @@ Here be dragons.
 [9]: ./src/com/gokeii/algorithms/easy/palindromeNumber/PalindromeNumber.java
 [12]: ./src/com/gokeii/algorithms/medium/integerToRoman/IntegerToRoman.java
 [13]: ./src/com/gokeii/algorithms/easy/romanToInteger/RomanToInteger.java
+[14]: ./src/com/gokeii/algorithms/easy/longestCommonPrefix/LongestCommonPrefix.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
