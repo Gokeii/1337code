@@ -20,6 +20,7 @@ Here be dragons.
 | 14  | [Longest Common Prefix][]                                   | Easy       | [Link][14]  |
 | 17  | [Letter Combinations of a Phone Number][]                   | Medium     | [Link][17]  |
 | 19  | [Remove Nth Node From End of List][]                        | Easy       | [Link][19]  |
+| 20  | [Valid Parentheses][]                                       | Easy       | [Link][20]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -63,6 +64,7 @@ Here be dragons.
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+[Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
 [ZigZag Conversion]: https://leetcode.com/problems/zigzag-conversion/
 
 [1]: ./src/com/gokeii/algorithms/medium/twoSum/TwoSum.java
@@ -78,6 +80,7 @@ Here be dragons.
 [14]: ./src/com/gokeii/algorithms/easy/longestCommonPrefix/LongestCommonPrefix.java
 [17]: ./src/com/gokeii/algorithms/medium/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.java
 [19]: ./src/com/gokeii/algorithms/easy/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java
+[20]: ./src/com/gokeii/algorithms/easy/validParentheses/ValidParentheses.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
