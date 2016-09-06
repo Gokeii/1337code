@@ -16,6 +16,7 @@ Here be dragons.
 | 8   | [String to Integer (atoi)][]                                | Easy       | [Link][8]   |
 | 9   | [Palindrome Number][]                                       | Easy       | [Link][9]   |
 | 12  | [Integer to Roman][]                                        | Medium     | [Link][12]  |
+| 13  | [Roman to Integer][]                                        | Easy       | [Link][13]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -51,6 +52,7 @@ Here be dragons.
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
+[Roman to Integer]: https://leetcode.com/problems/roman-to-integer/
 [Same Tree]: https://leetcode.com/problems/same-tree/
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
 [Two Sum]: https://leetcode.com/problems/two-sum/
@@ -66,6 +68,7 @@ Here be dragons.
 [8]: ./src/com/gokeii/algorithms/easy/stringToInteger/StringToInteger.java
 [9]: ./src/com/gokeii/algorithms/easy/palindromeNumber/PalindromeNumber.java
 [12]: ./src/com/gokeii/algorithms/medium/integerToRoman/IntegerToRoman.java
+[13]: ./src/com/gokeii/algorithms/easy/romanToInteger/RomanToInteger.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
