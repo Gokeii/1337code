@@ -22,6 +22,7 @@ Here be dragons.
 | 19  | [Remove Nth Node From End of List][]                        | Easy       | [Link][19]  |
 | 20  | [Valid Parentheses][]                                       | Easy       | [Link][20]  |
 | 21  | [Merge Two Sorted Lists][]                                  | Easy       | [Link][21]  |
+| 22  | [Generate Parentheses][]                                    | Medium     | [Link][22]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -45,6 +46,7 @@ Here be dragons.
 [Delete Node in a Linked List]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
 [Excel Sheet Column Title]: https://leetcode.com/problems/excel-sheet-column-title/
+[Generate Parentheses]: https://leetcode.com/problems/generate-parentheses/
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
 [Integer to Roman]: https://leetcode.com/problems/integer-to-roman/
 [Letter Combinations of a Phone Number]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -84,6 +86,7 @@ Here be dragons.
 [19]: ./src/com/gokeii/algorithms/easy/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java
 [20]: ./src/com/gokeii/algorithms/easy/validParentheses/ValidParentheses.java
 [21]: ./src/com/gokeii/algorithms/easy/mergeTwoSortedLists/MergeTwoSortedLists.java
+[22]: ./src/com/gokeii/algorithms/medium/generateParentheses/GenerateParentheses.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
