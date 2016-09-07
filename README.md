@@ -23,6 +23,7 @@ Here be dragons.
 | 20  | [Valid Parentheses][]                                       | Easy       | [Link][20]  |
 | 21  | [Merge Two Sorted Lists][]                                  | Easy       | [Link][21]  |
 | 22  | [Generate Parentheses][]                                    | Medium     | [Link][22]  |
+| 23  | [Merge k Sorted Lists][] &hearts;                           | Hard       | [Link][23]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -57,6 +58,7 @@ Here be dragons.
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [Majority Element]: https://leetcode.com/problems/majority-element/
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[Merge k Sorted Lists]: https://leetcode.com/problems/merge-k-sorted-lists/
 [Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists/
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
@@ -87,6 +89,7 @@ Here be dragons.
 [20]: ./src/com/gokeii/algorithms/easy/validParentheses/ValidParentheses.java
 [21]: ./src/com/gokeii/algorithms/easy/mergeTwoSortedLists/MergeTwoSortedLists.java
 [22]: ./src/com/gokeii/algorithms/medium/generateParentheses/GenerateParentheses.java
+[23]: ./src/com/gokeii/algorithms/hard/mergeKSortedLists/MergeKSortedLists.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
