@@ -21,6 +21,7 @@ Here be dragons.
 | 17  | [Letter Combinations of a Phone Number][]                   | Medium     | [Link][17]  |
 | 19  | [Remove Nth Node From End of List][]                        | Easy       | [Link][19]  |
 | 20  | [Valid Parentheses][]                                       | Easy       | [Link][20]  |
+| 21  | [Merge Two Sorted Lists][]                                  | Easy       | [Link][21]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -54,6 +55,7 @@ Here be dragons.
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [Majority Element]: https://leetcode.com/problems/majority-element/
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists/
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
@@ -81,6 +83,7 @@ Here be dragons.
 [17]: ./src/com/gokeii/algorithms/medium/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.java
 [19]: ./src/com/gokeii/algorithms/easy/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java
 [20]: ./src/com/gokeii/algorithms/easy/validParentheses/ValidParentheses.java
+[21]: ./src/com/gokeii/algorithms/easy/mergeTwoSortedLists/MergeTwoSortedLists.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
