@@ -24,6 +24,7 @@ Here be dragons.
 | 21  | [Merge Two Sorted Lists][]                                  | Easy       | [Link][21]  |
 | 22  | [Generate Parentheses][]                                    | Medium     | [Link][22]  |
 | 23  | [Merge k Sorted Lists][] &hearts;                           | Hard       | [Link][23]  |
+| 24  | [Swap Nodes in Pairs][]                                     | Easy       | [Link][24]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -68,6 +69,7 @@ Here be dragons.
 [Roman to Integer]: https://leetcode.com/problems/roman-to-integer/
 [Same Tree]: https://leetcode.com/problems/same-tree/
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
+[Swap Nodes in Pairs]: https://leetcode.com/problems/swap-nodes-in-pairs/
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 [Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
@@ -90,6 +92,7 @@ Here be dragons.
 [21]: ./src/com/gokeii/algorithms/easy/mergeTwoSortedLists/MergeTwoSortedLists.java
 [22]: ./src/com/gokeii/algorithms/medium/generateParentheses/GenerateParentheses.java
 [23]: ./src/com/gokeii/algorithms/hard/mergeKSortedLists/MergeKSortedLists.java
+[24]: ./src/com/gokeii/algorithms/easy/swapNodesInPairs/SwapNodesInPairs.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
