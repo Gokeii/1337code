@@ -25,6 +25,7 @@ Here be dragons.
 | 22  | [Generate Parentheses][]                                    | Medium     | [Link][22]  |
 | 23  | [Merge k Sorted Lists][] &hearts;                           | Hard       | [Link][23]  |
 | 24  | [Swap Nodes in Pairs][]                                     | Easy       | [Link][24]  |
+| 25  | [Reverse Nodes in k-Group][]                                | Hard       | [Link][25]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -66,6 +67,7 @@ Here be dragons.
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [Remove Nth Node From End of List]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
+[Reverse Nodes in k-Group]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 [Roman to Integer]: https://leetcode.com/problems/roman-to-integer/
 [Same Tree]: https://leetcode.com/problems/same-tree/
 [String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
@@ -93,6 +95,7 @@ Here be dragons.
 [22]: ./src/com/gokeii/algorithms/medium/generateParentheses/GenerateParentheses.java
 [23]: ./src/com/gokeii/algorithms/hard/mergeKSortedLists/MergeKSortedLists.java
 [24]: ./src/com/gokeii/algorithms/easy/swapNodesInPairs/SwapNodesInPairs.java
+[25]: ./src/com/gokeii/algorithms/hard/reverseNodesInKGroup/ReverseNodesInKGroup.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
