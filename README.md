@@ -26,6 +26,7 @@ Here be dragons.
 | 23  | [Merge k Sorted Lists][] &hearts;                           | Hard       | [Link][23]  |
 | 24  | [Swap Nodes in Pairs][]                                     | Easy       | [Link][24]  |
 | 25  | [Reverse Nodes in k-Group][]                                | Hard       | [Link][25]  |
+| 26  | [Remove Duplicates from Sorted Array][]                     | Easy       | [Link][26]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
@@ -65,6 +66,7 @@ Here be dragons.
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 [Nim Game]: https://leetcode.com/problems/nim-game/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
+[Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Remove Nth Node From End of List]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
 [Reverse Nodes in k-Group]: https://leetcode.com/problems/reverse-nodes-in-k-group/
@@ -96,6 +98,7 @@ Here be dragons.
 [23]: ./src/com/gokeii/algorithms/hard/mergeKSortedLists/MergeKSortedLists.java
 [24]: ./src/com/gokeii/algorithms/easy/swapNodesInPairs/SwapNodesInPairs.java
 [25]: ./src/com/gokeii/algorithms/hard/reverseNodesInKGroup/ReverseNodesInKGroup.java
+[26]: ./src/com/gokeii/algorithms/easy/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
