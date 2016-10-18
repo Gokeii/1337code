@@ -29,6 +29,7 @@ Here be dragons.
 | 26  | [Remove Duplicates from Sorted Array][]                     | Easy       | [Link][26]  |
 | 100 | [Same Tree][]                                               | Easy       | [Link][100] |
 | 104 | [Maximum Depth of Binary Tree][]                            | Easy       | [Link][104] |
+| 146 | [LRU Cache][]                                               | Hard       | [Link][146] |
 | 168 | [Excel Sheet Column Title][]                                | Easy       | [Link][168] |
 | 169 | [Majority Element][] &hearts;                               | Easy       | [Link][169] |
 | 171 | [Excel Sheet Column Number][]                               | Easy       | [Link][171] |
@@ -59,6 +60,7 @@ Here be dragons.
 [Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[LRU Cache]: https://leetcode.com/problems/lru-cache/
 [Majority Element]: https://leetcode.com/problems/majority-element/
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [Merge k Sorted Lists]: https://leetcode.com/problems/merge-k-sorted-lists/
@@ -101,6 +103,7 @@ Here be dragons.
 [26]: ./src/com/gokeii/algorithms/easy/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java
 [100]: ./src/com/gokeii/algorithms/easy/sameTree/SameTree.java
 [104]: ./src/com/gokeii/algorithms/easy/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java
+[146]: ./src/com/gokeii/algorithms/hard/lruCache/LRUCache.java
 [168]: ./src/com/gokeii/algorithms/easy/excelSheetColumnTitle/ExcelSheetColumnTitle.java
 [169]: ./src/com/gokeii/algorithms/easy/majorityElement/MajorityElement.java
 [171]: ./src/com/gokeii/algorithms/easy/excelSheetColumnNumber/ExcelSheetColumnNumber.java
